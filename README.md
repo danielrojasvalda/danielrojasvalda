@@ -1,20 +1,14 @@
 - 👋 Hi, I’m @danielrojasvalda, 
-With skills such as presenting HTML, JavaScript, and CSS layouts and mockups to clients, and troubleshooting front-end related bugs on clients’ websites. I like understanding the client's idea and putting it on the screen.
-My career path: I started as a full-stack developer when PHP was the fastest-growing language, developing complete e-learning platforms. I worked twice on government technology projects in my country, Bolivia. Starting as a member of the Bureau of Economy development team, and then as the Head of Technology Department in a laptop and cell phone assembly company.
-My passion for web development encouraged me to open my own development company, supporting companies to learn about the advantages of electronic commerce.
-During my career, I’ve been able to learn and make an impact with quite a few tools and methodologies, among which I highlight:
-Scrum/Agile development methodologies 
-Version control system GIT, SVN
-UI/UX technologies
-Linux, Windows
-HTML, HTML5
-CSS, CSS3
-Bootstrap
-JavaScript
-Angular
-JQuery
-Java
-PHP 
-- 💞️ I’m looking to collaborate on Front End projects.
+
+I am a software engineer with years of experience in Bolivia. Over the years, my career has been dedicated to specialized software development, driven by a deep passion for crafting innovative solutions.
+
+During the transitional period of country relocation, when the technology industry experienced a slowdown due to the impact of COVID-19, I embraced the opportunity to explore new branches within technology. Despite this, my focus remained resolute on continuing my journey as a software developer in the new landscape.
+
+Currently enrolled in a comprehensive Software Developer Bootcamp, further enriching my skill set and knowledge in the field. My commitment to software development and continuous learning remains unwavering.
+
+As a software developer, I have a proven track record of delivering quality results to clients. I excel in full-stack development, leveraging my skills in JavaScript, CSS, PHP, and various programming languages to create dynamic and engaging web applications. Additionally, I have experience troubleshooting front-end issues and driving innovation.
+
+- 💞️ I am actively seeking opportunities to contribute my software development skills to a tech company in the US. I am eager to join a dynamic and innovative team where I can utilize my expertise to create impactful solutions. I am passionate about continuous learning and growth, and I am excited to work on challenging projects that push the limits of technology. Ultimately, my goal is to make a meaningful contribution and further advance my career in the field of software development.
+
 - 📫 danielrojasvalda@gmail.com, +1 321 945 7729
 
